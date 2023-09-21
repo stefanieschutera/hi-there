@@ -1,8 +1,14 @@
 # Content
-headline: Überschrift
-person: Stefanie Schutera
-person_description: I'm blalala.
-person_title: PhD Candidate in Mathematics
+headline: Hi there, thanks for stopping by and feel free to reach out!
+user_description: "These are my areas of interest:"
+tech_a_headline: Tech
+tech_a_content: I'm a mathematician who's trained in web dev, software engineering and data science
+tech_b_headline: Design
+tech_b_content: I love to design anything - furniture, apartments & of course UX
+tech_c_headline: Yoga
+tech_c_content: Yoga improves my everyday life as a practice for mind, soul and body (RYT 200)
+username: Stefanie Schutera
+user_title: PhD Candidate in Mathematics
 email: hellomyfriend@mailbox.org
 twitter_username: sschutera
 linkedin_username: stefanie-schutera
